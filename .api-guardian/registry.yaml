@@ -1,0 +1,9 @@
+repositories:
+- package: more-itertools
+  import_name: more_itertools
+  path: provider
+  bundle: more-itertools.bundle
+  api_declaration: api.yaml
+  versions:
+    5.0.0: fixture-5.0.0
+    11.2.1: fixture-11.2.1

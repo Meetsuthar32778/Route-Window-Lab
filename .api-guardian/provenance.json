@@ -1,0 +1,149 @@
+{
+  "package": "more-itertools",
+  "import_name": "more_itertools",
+  "latest_lookup": {
+    "version": "11.2.1",
+    "source": "https://pypi.org/pypi/more-itertools/json",
+    "checked_at": "2026-11-26 17:16:24.567483+00:00"
+  },
+  "packaging": "The bundle contains byte-for-byte upstream runtime modules, type files and MIT license. Its local tags, setuptools build descriptor and ten-function declaration were added for API Guardian. The target wheel is built locally from those modules.",
+  "releases": {
+    "5.0.0": {
+      "pypi_metadata": "https://pypi.org/pypi/more-itertools/5.0.0/json",
+      "artifact": {
+        "filename": "more-itertools-5.0.0.tar.gz",
+        "digests": {
+          "blake2b_256": "dd2630fc0d541d9fdf55faf5ba4b0fd68f81d5bd2447579224820ad525934178",
+          "md5": "f2ea58aa336ce6c13b7b225b3bbe305d",
+          "sha256": "38a936c0a6d98a38bcc2d03fdaaedaba9f412879461dd2ceff8d37564d6522e4"
+        },
+        "url": "https://files.pythonhosted.org/packages/dd/26/30fc0d541d9fdf55faf5ba4b0fd68f81d5bd2447579224820ad525934178/more-itertools-5.0.0.tar.gz",
+        "size": 67359,
+        "upload_time_iso_8601": "2018-12-27T19:48:10.197528Z"
+      },
+      "source_metadata_sha256": "0cec836e18565a97912a6363b36d7ee85002f170548e4f098be683677c7ee8b8",
+      "files_sha256": {
+        "more_itertools/recipes.py": "7d1b6291e9d0f3425e3d33b069a81825474eb0e38a30a22abfad9bd3e8033387",
+        "more_itertools/__init__.py": "4be9fa4bd37752996a537a7eec057ed599e5eb2270b97b09b6aae512af6d394c",
+        "more_itertools/more.py": "d236ae66621a7f170fcaa8b69c4f44b39496c6e3ad4201a2f356710dd024c497",
+        "LICENSE": "09f1c8c9e941af3e584d59641ea9b87d83c0cb0fd007eb5ef391a7e2643c1a46"
+      },
+      "exports": {
+        "first": {
+          "file": "more_itertools/more.py",
+          "line": 116
+        },
+        "last": {
+          "file": "more_itertools/more.py",
+          "line": 146
+        },
+        "ilen": {
+          "file": "more_itertools/more.py",
+          "line": 436
+        },
+        "windowed": {
+          "file": "more_itertools/more.py",
+          "line": 648
+        },
+        "substrings": {
+          "file": "more_itertools/more.py",
+          "line": 700
+        },
+        "padded": {
+          "file": "more_itertools/more.py",
+          "line": 1119
+        },
+        "take": {
+          "file": "more_itertools/recipes.py",
+          "line": 82
+        },
+        "nth": {
+          "file": "more_itertools/recipes.py",
+          "line": 166
+        },
+        "quantify": {
+          "file": "more_itertools/recipes.py",
+          "line": 193
+        },
+        "unique_everseen": {
+          "file": "more_itertools/recipes.py",
+          "line": 366
+        }
+      },
+      "declaration_sha256": "9df9e620f18098fd153a2e1795feb4bf41c5b7311654bc1e3a8b9b73a3755fc7",
+      "local_tag": "fixture-5.0.0",
+      "local_commit": "8c6de4ca71daa7192d72ba1588ae18533d7b1664"
+    },
+    "11.2.1": {
+      "pypi_metadata": "https://pypi.org/pypi/more-itertools/11.2.1/json",
+      "artifact": {
+        "filename": "more_itertools-11.2.1.tar.gz",
+        "digests": {
+          "blake2b_256": "52b8c63995bebbb9ac9c059350e0fb8c82c2420c85aeca7d34e40aecf3df9281",
+          "md5": "2809b18d39b6297235747ad4bbf95fd2",
+          "sha256": "cbf08fd0af284dc69718b9b76a8e6203df624d70209ea511e4219d350c856f63"
+        },
+        "url": "https://files.pythonhosted.org/packages/52/b8/c63995bebbb9ac9c059350e0fb8c82c2420c85aeca7d34e40aecf3df9281/more_itertools-11.2.1.tar.gz",
+        "size": 154133,
+        "upload_time_iso_8601": "2026-10-14T18:50:30.407709Z"
+      },
+      "source_metadata_sha256": "8c558bfab61818450e78db4018281f8f7b22115e681cd53ae1d9d4931be54f15",
+      "files_sha256": {
+        "more_itertools/__init__.py": "e7988a22d707340f59eb4cc01a4a534994fdcfb8420c01f768b42fd5e9caeccc",
+        "more_itertools/__init__.pyi": "e41dde4f338dd4106e38ba1bd6f09f97211bda549deaeb17410f82bfe85791e0",
+        "more_itertools/more.py": "1bdc5f323ea18906436a42268b942d5b4d15ac8b3ff17c1211a59fb192fa068e",
+        "more_itertools/more.pyi": "e4952b7a6230e27bee49265fd9af08ae8353946e2d5a78ce60c55d2f5efe5514",
+        "more_itertools/py.typed": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "more_itertools/recipes.py": "468ab191bbb5fd62e8603d741e6983acdfa9d697d0ff9252b0c56ffdd24ca9bc",
+        "more_itertools/recipes.pyi": "2dd48ac5ef0b502f989bd2e13923c402994244ee50a4187e2f0d59c348bf2583",
+        "LICENSE": "09f1c8c9e941af3e584d59641ea9b87d83c0cb0fd007eb5ef391a7e2643c1a46"
+      },
+      "exports": {
+        "first": {
+          "file": "more_itertools/more.py",
+          "line": 253
+        },
+        "last": {
+          "file": "more_itertools/more.py",
+          "line": 280
+        },
+        "ilen": {
+          "file": "more_itertools/more.py",
+          "line": 521
+        },
+        "windowed": {
+          "file": "more_itertools/more.py",
+          "line": 1027
+        },
+        "substrings": {
+          "file": "more_itertools/more.py",
+          "line": 1082
+        },
+        "padded": {
+          "file": "more_itertools/more.py",
+          "line": 1782
+        },
+        "take": {
+          "file": "more_itertools/recipes.py",
+          "line": 113
+        },
+        "nth": {
+          "file": "more_itertools/recipes.py",
+          "line": 203
+        },
+        "quantify": {
+          "file": "more_itertools/recipes.py",
+          "line": 242
+        },
+        "unique_everseen": {
+          "file": "more_itertools/recipes.py",
+          "line": 472
+        }
+      },
+      "declaration_sha256": "4cbcdaf59a6522bc2590b3078f6ba3a25ddea399e06b93ac826094e38e52b9b4",
+      "local_tag": "fixture-11.2.1",
+      "local_commit": "b99ea1e1cf57d453d961b1a0d7b5bd74152b7ee1"
+    }
+  },
+  "bundle_sha256": "0ef596a32caa24c9dfddc8f26871a4094dd3ae2d439540f668d2920980dfe2ce"
+}

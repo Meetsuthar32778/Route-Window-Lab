@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "route-window-lab"
+version = "0.1.0"
+description = "Analyze contiguous stretches of a transit route"
+requires-python = ">=3.11"
+dependencies = ["more-itertools==5.0.0"]
+
+[project.scripts]
+route-window = "route_window.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

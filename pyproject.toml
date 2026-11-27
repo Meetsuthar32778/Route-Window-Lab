@@ -7,7 +7,7 @@ name = "route-window-lab"
 version = "0.1.0"
 description = "Analyze contiguous stretches of a transit route"
 requires-python = ">=3.11"
-dependencies = ["more-itertools==5.0.0"]
+dependencies = ["more-itertools==11.2.1"]
 
 [project.scripts]
 route-window = "route_window.cli:main"
